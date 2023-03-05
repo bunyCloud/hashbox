@@ -1,0 +1,3 @@
+# hashbox
+#
+- Compile and deploy =)
